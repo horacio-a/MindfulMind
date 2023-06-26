@@ -1,0 +1,9 @@
+[submodule "MindfulMind-App"]
+	path = MindfulMind-App
+	url = https://github.com/horacio-a/MindfulMind-App.git
+[submodule "MindfulMind-WebPage"]
+	path = MindfulMind-WebPage
+	url = https://github.com/horacio-a/MindfulMind-WebPage.git
+[submodule "MindfulMind-Backend"]
+	path = MindfulMind-Backend
+	url = https://github.com/horacio-a/MindfulMind-Backend.git
